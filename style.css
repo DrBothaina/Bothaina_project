@@ -1,7 +1,12 @@
 p
 {
     color:brown;
+    font-size: large;
 }
+h1{
+    color:brown;
+}
+
 body
 {
     background-color:rgb(219, 199, 199);
